@@ -26,8 +26,7 @@ Toktalk!</p>
 ## ✨기술스택
 
 ### 공통
-<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
+<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
 <br>
     
 ### 백엔드
@@ -88,10 +87,9 @@ Toktalk!</p>
 
 ## 🙏Team List
 
-|**고경범**|**황진혁**|**조한재**|**은하늘**|
+|**[고경범](https://github.com/KoKyungBeom)(팀장)**|**[황진혁](https://github.com/JINHYEOKKK)**|**[조한재](https://github.com/whgkswo)**|**[은하늘](https://github.com/skyla00)**|
 |:--:|:--:|:--:|:--:|
 |<img src="" width="150px" height="150px">|<img src="" width="150px" height="150px"> | <img src="" width="150px" height="150px"> | <img src="" width="150px" height="150px">|
-|[고경범](https://github.com/KoKyungBeom) (팀장)|[황진혁](https://github.com/JINHYEOKKK)|[조한재](https://github.com/whgkswo)|[은하늘](https://github.com/skyla00)|
 
 <br>
 
