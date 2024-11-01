@@ -1,4 +1,4 @@
-#  MeetBTI
+#  Toktalk
 
 <p align="center">
 비대면 심리 상담 서비스 <br>
@@ -26,10 +26,8 @@ Toktalk!</p>
 ## ✨기술스택
 
 ### 공통
-<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
+<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
 <br>
     
 ### 백엔드
@@ -49,11 +47,7 @@ Toktalk!</p>
 <br>
 
 ### 프론트엔드
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/react-native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/react-native-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
 <br>
 <br> 
 
@@ -96,7 +90,7 @@ Toktalk!</p>
 
 |**고경범**|**황진혁**|**조한재**|**은하늘**|
 |:--:|:--:|:--:|:--:|
-|<img src="https://github.com/user-attachments/assets/843e48b3-33ca-4443-9f7a-05a8a504f602" width="150px" height="150px">|<img src="https://github.com/user-attachments/assets/a514e921-e0e5-4f5f-a184-a12559d4a827" width="150px" height="150px"> | <img src="https://github.com/user-attachments/assets/ffdb85b6-47d8-4a3f-8dc6-19dc55d6fe49" width="150px" height="150px"> | <img src="https://github.com/user-attachments/assets/e2aab19f-8287-488c-908a-5040f8d247db" width="150px" height="150px">|
+|<img src="" width="150px" height="150px">|<img src="" width="150px" height="150px"> | <img src="" width="150px" height="150px"> | <img src="" width="150px" height="150px">|
 |[고경범](https://github.com/KoKyungBeom) (팀장)|[황진혁](https://github.com/JINHYEOKKK)|[조한재](https://github.com/whgkswo)|[은하늘](https://github.com/skyla00)|
 
 <br>
