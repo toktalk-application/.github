@@ -9,7 +9,7 @@ Toktalk!</p>
 </p>
 
 <p align="center">
-    <strong>Toktalk</strong>은 우울증을 호소하지만 대면 상담을 꺼려하는 사람들을 위해, <br> 성시간과 장소에 구애 받지 않고 
+    <strong>Toktalk</strong>은 우울증을 호소하지만 대면 상담을 꺼려하는 사람들을 위해, <br> 시간과 장소에 구애 받지 않고 
 비대면으로 심리 상담을 받을 수 있는 서비스를 제공합니다.
 </p>
 
