@@ -5,7 +5,7 @@
 Toktalk!</p>
 
 <p align="center">
-    <img src="https://github.com/shoe-cream/.github/blob/main/assets/toktalk.png?raw=true" width="400"/>
+    <img src="https://github.com/toktalk-application/.github/blob/main/assets/toktalk.png?raw=true" width="400"/>
 </p>
 
 <p align="center">
