@@ -130,27 +130,27 @@ Toktalk!</p>
 
 |  우울증 자가 진단(회원)  | 상담 예약(회원) |
 | :---: | :---: |
-| <img src="" width="400" height="200"/> | <img src="" width="400" height="200"/> |
+| <img src="https://github.com/user-attachments/assets/a602974e-36fc-41ef-85e9-332af5dab4fd" width="337" height="720"/> | <img src="https://github.com/user-attachments/assets/0a95efb9-e04a-437e-b5fe-1e76872ef572" width="336" height="720"/> |
 
 | 상담 취소(회원) | 리뷰 작성(회원) |
 | :---: | :---: |
-| <img src="" width="400" height="200"/> | <img src="" width="400" height="200"/> |
+| <img src="https://github.com/user-attachments/assets/55499379-ea50-4bc7-94d0-b65433d466f4" width="666" height="720"/> | <img src="https://github.com/user-attachments/assets/02cb4230-a929-44c0-80f5-047f753bd7bd" width="666" height="720"/> |
 
-| 프로필 수정(상담사) | 프로필 사진 변경(상담사) |
+| 채팅(회원,상담사)| 채팅방 닫기(상담사) |
 | :---: | :---: |
-| <img src="" width="400" height="200"/> | <img src="" width="400" height="200"/> |
+| <img src="https://github.com/user-attachments/assets/dc48c9da-86c2-4b40-b863-e7b2727f490e" width="666" height="720"/> | <img src="https://github.com/user-attachments/assets/c3eac1bd-1a3b-41b1-8c6c-24ca3ee1ddad" width="666" height="720"/> |
 
-| 요금 관리(상담사) | 기본 일정 관리(상담사) |
+| 프로필 수정(상담사) | 요금 관리(상담사) |
 | :---: | :---: |
-| <img src="" width="400" height="200"/> | <img src="" width="400" height="200"/> |
+| <img src="https://github.com/user-attachments/assets/a2157284-158f-4f3a-8d97-4cc66150568a" width="336" height="720"/> | <img src="https://github.com/user-attachments/assets/db9e233b-b9dc-4d22-a7e6-dd83928363a1" width="336" height="720"/> |
 
-| 특정일 일정 관리(상담사) | 채팅(회원,상담사) |
+| 기본 일정 관리(상담사) | 특정일 일정 관리(상담사) |
 | :---: | :---: |
-| <img src="" width="400" height="200"/> | <img src="" width="400" height="200"/> |
+| <img src="https://github.com/user-attachments/assets/7dd9f7d9-d05d-4fd9-8014-9416ff2774b7" width="666" height="720"/> | <img src="https://github.com/user-attachments/assets/efc27162-923d-44ab-8b7b-6aa3ef289b20" width="666" height="720"/> |
 
-| 채팅방 닫기(상담사) | 리포트 작성(상담사) |
-| :---: | :---: |
-| <img src="" width="400" height="200"/> | <img src="" width="400" height="200"/> |
+| 리포트 작성(상담사) |  
+| :---: |
+| <img src="https://github.com/user-attachments/assets/16862ca7-87ba-48dc-95e8-362d2af724d5" width="666" height="720"/> |
 
 
 <br> 
