@@ -126,7 +126,7 @@ Toktalk!</p>
 
 | 회원가입 및 로그인 | 오늘의 기분 등록(회원) |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/5ba1da27-50ad-493b-9c2c-24772c358ae3" width="400" height="200"/> | <img src="https://github.com/user-attachments/assets/3e387edf-c577-41d1-834b-0031a9210f24" width="400" height="200"/> |
+| <img src="https://github.com/user-attachments/assets/5ba1da27-50ad-493b-9c2c-24772c358ae3" width="336" height="720"/> | <img src="https://github.com/user-attachments/assets/3e387edf-c577-41d1-834b-0031a9210f24" width="336" height="720"/> |
 
 |  우울증 자가 진단(회원)  | 상담 예약(회원) |
 | :---: | :---: |
