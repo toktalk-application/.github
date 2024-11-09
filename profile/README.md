@@ -115,7 +115,7 @@ Toktalk!</p>
 
 |**[고경범](https://github.com/KoKyungBeom)(팀장)**|**[황진혁](https://github.com/JINHYEOKKK)**|**[조한재](https://github.com/whgkswo)**|**[은하늘](https://github.com/skyla00)**|
 |:--:|:--:|:--:|:--:|
-|<img src="" width="150px" height="150px">|<img src="https://github.com/toktalk-application/.github/blob/main/assets/hwang.jpeg?raw=true" width="150px" height="180px"> | <img src="" width="150px" height="150px"> | <img src="" width="150px" height="150px">|
+|<img src="https://github.com/user-attachments/assets/9d0a869c-2db1-4439-a126-18ae91720d47" width="150px" height="150px">|<img src="https://github.com/toktalk-application/.github/blob/main/assets/hwang.jpeg?raw=true" width="150px" height="150px"> | <img src="" width="150px" height="150px"> | <img src="" width="150px" height="150px">|
 
 <br>
 
