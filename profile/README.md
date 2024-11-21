@@ -115,12 +115,9 @@ Toktalk!</p>
 
 |**[고경범](https://github.com/KoKyungBeom)(팀장)**|**[황진혁](https://github.com/JINHYEOKKK)**|**[조한재](https://github.com/whgkswo)**|**[은하늘](https://github.com/skyla00)**|
 |:--:|:--:|:--:|:--:|
-|<img src="https://github.com/user-attachments/assets/9d0a869c-2db1-4439-a126-18ae91720d47" width="150px" height="150px">|<img src="https://github.com/toktalk-application/.github/blob/main/assets/hwang.jpeg?raw=true" width="150px" height="150px"> | <img src="https://github.com/user-attachments/assets/3f93d87b-ebe6-4398-bfe0-9e1837a3c7ba" width="150px" height="150px"> | <img src="" width="150px" height="150px">|
+|<img src="https://github.com/user-attachments/assets/9d0a869c-2db1-4439-a126-18ae91720d47" width="150px" height="150px">|<img src="https://github.com/toktalk-application/.github/blob/main/assets/hwang.jpeg?raw=true" width="150px" height="150px"> | <img src="https://github.com/user-attachments/assets/3f93d87b-ebe6-4398-bfe0-9e1837a3c7ba" width="150px" height="150px"> | <img src="https://github.com/user-attachments/assets/e2cb85fa-174f-4b2f-8e49-a54be32953a3" width="150px" height="150px">|
 
 <br>
-
-> ### 역할 분담
-<img src = "" />
 
 ## 🔍Page Preview
 
